@@ -2,6 +2,8 @@
   width: 12%;
   float: left;
   display: block;
+  background-color: #e8edeb;
+  height: 1100px;
 }
 
 #featured {
@@ -31,4 +33,8 @@
 
 #mainrow {
   margin-left: -20%
+}
+
+body {
+  background-color: #e8edeb;
 }
