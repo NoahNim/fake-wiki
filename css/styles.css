@@ -6,6 +6,7 @@
 
 #featured {
   background-color: #e1f4e8;
+  margin-right: 100px;
 }
 
 #news {
@@ -19,4 +20,15 @@
 #upper {
   height: 120px;
   margin-top: 40px;
+  margin-left: -20%;
+}
+
+#feature-panel {
+  background-color: #bcffd2;
+  font-size: 18px;
+
+}
+
+#mainrow {
+  margin-left: -20%
 }
