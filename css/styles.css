@@ -28,7 +28,21 @@
 #feature-panel {
   background-color: #bcffd2;
   font-size: 18px;
+}
 
+#know-panel {
+  background-color: #bcffd2;
+  font-size: 18px;
+}
+
+#news-panel {
+  background-color: #a6d0e0;
+  font-size: 18px;
+}
+
+#day-panel {
+  background-color: #a6d0e0;
+  font-size: 18px;
 }
 
 #mainrow {
