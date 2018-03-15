@@ -1,6 +1,6 @@
 # Fake Wikipedia Homepage
 
-## by Noah Medoff
+## by Noah Medoff and Azamat Bekmuratov
 
 ### Description
 A mock homepage for Wikipedia
