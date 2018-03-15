@@ -1,3 +1,22 @@
-.nav-stacked {
-  width: 12%
+#nav {
+  width: 12%;
+  float: left;
+  display: block;
+}
+
+#featured {
+  background-color: #e1f4e8;
+}
+
+#news {
+  background-color: #e8f8fc;
+}
+
+#featured p {
+  background-color: #e1f4e8;
+}
+
+#upper {
+  height: 120px;
+  margin-top: 40px;
 }
